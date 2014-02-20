@@ -1,7 +1,11 @@
 package hw2;
 
 public class ShortestJobFirst extends Scheduler implements AlgorithmInterface{
-	public ShortestJobFirst() {super();}
+	Scheduler scheduler;
+	
+	public ShortestJobFirst(Scheduler scheduler){
+		this.scheduler = scheduler;
+	}
 
 	public void ScheduleOperations() {
 		// TODO Auto-generated method stub

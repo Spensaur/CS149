@@ -1,24 +1,19 @@
 package hw2;
 
 public class RoundRobin extends Scheduler implements AlgorithmInterface{
-	public RoundRobin() {super();}
+	Scheduler scheduler;
 	
+	public RoundRobin(Scheduler scheduler){
+		this.scheduler = scheduler;
+	}
+
 	public void ScheduleOperations() 
 	{
 		while(globalQuanta < 100)
 		{
 			if (processQ.peek().arrivalTime < globalQuanta)
 			{
-				currentProcess = processQ.pop();
-			}
-			if (currentProcess != null)
-			{
-				currentProcess.turnAroundTime++;
-				if (currentProcess.expectedRT -1 < 0)
-				{
-					
-				}
-				else currentProcess.expectedRT--;
+				
 			}
 			globalQuanta++;
 		}

@@ -1,8 +1,7 @@
 package hw2;
 
 public class RoundRobin extends Scheduler implements AlgorithmInterface{
-	public RoundRobin() {super();}
-	
+
 	public void ScheduleOperations() 
 	{
 		while(globalQuanta < 100)
@@ -18,7 +17,6 @@ public class RoundRobin extends Scheduler implements AlgorithmInterface{
 				{
 					
 				}
-				else currentProcess.expectedRT--;
 			}
 			globalQuanta++;
 		}

@@ -1,7 +1,11 @@
 package hw2;
 
 public class HighestPriorityFirstPRE implements AlgorithmInterface{
-	public HighestPriorityFirstPRE() {super();}
+	Scheduler scheduler;
+	
+	public HighestPriorityFirstPRE(Scheduler scheduler){
+		this.scheduler = scheduler;
+	}
 
 	public void ScheduleOperations() {
 		

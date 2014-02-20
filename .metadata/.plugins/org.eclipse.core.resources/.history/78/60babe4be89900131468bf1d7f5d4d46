@@ -1,8 +1,12 @@
 package hw2;
 
 public class FirstComeFirstServe extends Scheduler implements AlgorithmInterface{
-	public FirstComeFirstServe() {super();}
+	Scheduler scheduler;
 	
+	public FirstComeFirstServe(Scheduler scheduler){
+		this.scheduler = scheduler;
+	}
+
 	public void ScheduleOperations() {
 		// TODO Auto-generated method stub
 		
