@@ -8,9 +8,8 @@ import java.util.Queue;
 public class Scheduler{
 	public int globalQuanta;
 	public LinkedList<Process> processQ;
-	double throughput;
-	double responseTime;
 	public LinkedList<Process> completed;
+	public LinkedList<Process> readyQ;
 	public ArrayList<Process> timechart;
 	
 	public Scheduler(){
@@ -29,10 +28,11 @@ public class Scheduler{
 		}
 		processQ = new LinkedList<Process>(Arrays.asList(temp));
 		completed = new LinkedList<Process>();
+		readyQ = new LinkedList<Process>();
 		timechart = new ArrayList<Process>();
-		throughput = 0;
-		responseTime = 0;
 	}
+	
+	
 	public void printTimeChart()
 	{
 		for(int i = 0; i < timechart.size(); i++)
@@ -40,6 +40,27 @@ public class Scheduler{
 			if(i % 10 == 0) System.out.println();
 			System.out.print(timechart.get(i).name+ " ");
 		}
+	}
+	
+	
+	public void printThroughput()
+	{
+		System.out.println("Throughput: " + ((double)completed.size()/(double)globalQuanta));
+	}
+	
+	public void printAVGTurnaround()
+	{
+		System.out.println("Average Turnaround Time: " + (completed.size()/globalQuanta));
+	}
+	
+	public void printAVGWait()
+	{
+		System.out.println("Average Wait Time: " + (completed.size()/globalQuanta));
+	}
+	
+	public void printAVGResponse()
+	{
+		System.out.println("Average Response Time: " + (completed.size()/globalQuanta));
 	}
 	
 	public void testProcessQOrder(){

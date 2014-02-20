@@ -1,10 +1,16 @@
 package hw2;
 
-public class RoundRobin {
+public class RoundRobin implements AlgorithmInterface{
 	Scheduler scheduler;
 	
 	public RoundRobin(Scheduler scheduler){
 		this.scheduler = scheduler;
+	}
+
+	public void ScheduleOperations() 
+	{
+
+		
 	}
 	
 }
