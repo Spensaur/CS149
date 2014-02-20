@@ -1,0 +1,10 @@
+package hw2;
+
+public class ShortestJobFirst {
+	Scheduler scheduler;
+	
+	public ShortestJobFirst(Scheduler scheduler){
+		this.scheduler = scheduler;
+	}
+
+}

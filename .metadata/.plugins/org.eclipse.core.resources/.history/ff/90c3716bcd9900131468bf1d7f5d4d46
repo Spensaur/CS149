@@ -1,0 +1,10 @@
+package hw2;
+
+public class ShortestRemainingTime {
+	Scheduler scheduler;
+	
+	public ShortestRemainingTime(Scheduler scheduler){
+		this.scheduler = scheduler;
+	}
+
+}

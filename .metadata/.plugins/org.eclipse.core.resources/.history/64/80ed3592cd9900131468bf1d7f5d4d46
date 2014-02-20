@@ -1,0 +1,10 @@
+package hw2;
+
+public class FirstComeFirstServe {
+	Scheduler scheduler;
+	
+	public FirstComeFirstServe(Scheduler scheduler){
+		this.scheduler = scheduler;
+	}
+
+}

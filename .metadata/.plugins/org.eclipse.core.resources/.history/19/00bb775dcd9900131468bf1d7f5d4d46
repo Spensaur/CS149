@@ -1,0 +1,10 @@
+package hw2;
+
+public class HighestPriorityFirstPRE {
+	Scheduler scheduler;
+	
+	public HighestPriorityFirstPRE(Scheduler scheduler){
+		this.scheduler = scheduler;
+	}
+
+}

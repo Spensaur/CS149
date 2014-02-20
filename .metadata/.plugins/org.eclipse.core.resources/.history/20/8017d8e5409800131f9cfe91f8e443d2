@@ -1,0 +1,17 @@
+package hw2;
+import java.util.*;
+
+public class Process {
+	
+	float arrivalTime;
+	float expectedRT;
+	int priority;
+	
+	public Process (){
+		Random rGen = new Random();
+		arrivalTime = rGen.nextFloat() * 99;
+		expectedRT = (float) (.1 + rGen.nextFloat() * 9.9);
+		priority = 1 + rGen.nextInt(3);
+	}
+
+}
