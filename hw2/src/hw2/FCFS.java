@@ -26,53 +26,7 @@ public class FCFS
 
         int a = 0;//initialize ng counter
 
-/*
-try{
 
-while(a<5)
-{
-
-
-    System.out.print("\nInput JOB" + (a+1) + " Burst Time: ");      //-?bursttime
-    jobbt[a] = js.nextInt();                                    //input-bursttime
-
-    if(jobbt[a] < 0) //check if negative ung input
-    {
-        while(jobbt[a] < 0)
-        {
-            System.out.println("POSTIVE INTEGER ONLY!");
-            System.out.print("\nInput JOB" + (a+1) + " Burst Time: ");      //-?bursttime
-            jobbt[a] = js.nextInt();                                    //input-bursttime
-        }//reject lang pagless than zero
-    }
-
-    System.out.print("\nInput JOB" + (a+1) + " Arrival Time: ");    //-?arrivaltime
-    jobat[a] = js.nextInt();                                    //inputarrivaltime
-
-    if(jobat[a] < 0) //check if negative ung input
-        {
-            while(jobat[a] < 0)
-            {
-                System.out.println("POSTIVE INTEGER ONLY!");
-                System.out.print("\nInput JOB" + (a+1) + " Arrival Time: ");    //-?arrivaltime
-                jobat[a] = js.nextInt();                                    //inputarrivaltime
-            }//reject lang pagless than zero
-    }
-
-
-    a++;
-
-}//while LOOP - magloop ung input section ng 5 times...
-
-
-
-}catch(Exception ea)
-{
-    JOptionPane.showMessageDialog(null, "Positive INTEGER values only..." + ea.getMessage(), "ERROR", JOptionPane.ERROR_MESSAGE);
-    System.exit(0);
-}//ung try-catch para kung maginput ka ng letter hindi siya mageerror at magclose ung program subukan niyo tanggalin nang matuwa kau
-*/
-// -------------------- /**/
 
         System.out.println("\n\nSummary of Inputs:\n");
 
