@@ -8,8 +8,8 @@ import java.util.Queue;
 public class Scheduler{
 	public int globalQuanta;
 	public LinkedList<Process> processQ; //Pull processes from processq until 100quanta then only use readyQ
-	public LinkedList<Process> completed;
-	public LinkedList<Process> readyQ;
+	public LinkedList<Process> completed; //put completed processes in here
+	public LinkedList<Process> readyQ; //You can use this as the main queue for the processes
 	public ArrayList<Process> timechart;
 	public Process currentProcess;
 	
@@ -50,17 +50,32 @@ public class Scheduler{
 	
 	public void printAVGTurnaround()
 	{
-		System.out.println("Average Turnaround Time: " + (completed.size()/globalQuanta));
+		float turnAroundTotal = 0;
+		for (Process p: completed)
+		{
+			turnAroundTotal += p.turnAroundTime;
+		}
+		System.out.println("Average Turnaround Time: " + (turnAroundTotal/completed.size()));
 	}
 	
 	public void printAVGWait()
 	{
-		System.out.println("Average Wait Time: " + (completed.size()/globalQuanta));
+		float waitTotal = 0;
+		for (Process p: completed)
+		{
+			waitTotal += p.waitingTime;
+		}
+		System.out.println("Average Wait Time: " + (waitTotal/completed.size()));
 	}
 	
 	public void printAVGResponse()
 	{
-		System.out.println("Average Response Time: " + (completed.size()/globalQuanta));
+		float responseTotal = 0;
+		for (Process p: completed)
+		{
+			responseTotal += p.responseTime;
+		}
+		System.out.println("Average Response Time: " + (responseTotal/completed.size()));
 	}
 	
 	public void testProcessQOrder(){

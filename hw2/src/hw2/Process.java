@@ -9,6 +9,7 @@ public class Process implements Comparable<Process>{
 	String name;
 	float turnAroundTime;
 	float waitingTime;
+	float responseTime;
 	
 	public Process (){
 		Random rGen = new Random();
@@ -18,6 +19,7 @@ public class Process implements Comparable<Process>{
 		name = "";
 		turnAroundTime = 0;
 		waitingTime = 0;
+		responseTime = 0;
 	}
 
 	@Override
