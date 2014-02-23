@@ -22,12 +22,9 @@ public class Process implements Comparable<Process>{
 
 	@Override
 	public int compareTo(Process p) {
-		// TODO Auto-generated method stub
-		//Process compto = (Process) p;
 		if (this.arrivalTime == p.arrivalTime) return 0;
 		else if(this.arrivalTime > p.arrivalTime) return 1;
 		else return -1;
-		//return this.arrivalTime - compto.arrivalTime;
 	}
 
 }

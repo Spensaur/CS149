@@ -19,13 +19,11 @@ public class Scheduler{
 		for (int i = 0; i < 100; i++)
 		{
 			temp[i] = new Process();
-			//temp.add(new Process());
 		}
 		Arrays.sort(temp);
 		for (int i = 0; i < 100; i++)
 		{
 			temp[i].name = Integer.toString(i);
-			//temp.add(new Process());
 		}
 		processQ = new LinkedList<Process>(Arrays.asList(temp));
 		completed = new LinkedList<Process>();

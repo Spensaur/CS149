@@ -15,6 +15,11 @@ public class RoundRobin extends Scheduler implements AlgorithmInterface{
 			{
 				currentProcess = readyQ.pop();
 			}
+			for (Process p: readyQ)
+			{
+				p.turnAroundTime++;
+				p.waitingTime++;
+			}
 			if (currentProcess != null)
 			{
 				currentProcess.turnAroundTime++;
@@ -27,11 +32,6 @@ public class RoundRobin extends Scheduler implements AlgorithmInterface{
 					currentProcess.expectedRT--;
 					readyQ.add(currentProcess);
 				}
-			}
-			for (Process p: readyQ)
-			{
-				p.turnAroundTime++;
-				p.waitingTime++;
 			}
 			globalQuanta++;
 		}
