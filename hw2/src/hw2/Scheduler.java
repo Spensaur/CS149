@@ -7,7 +7,7 @@ import java.util.Queue;
 
 public class Scheduler{
 	public int globalQuanta;
-	public LinkedList<Process> processQ;
+	public LinkedList<Process> processQ; //Pull processes from processq until 100quanta then only use readyQ
 	public LinkedList<Process> completed;
 	public LinkedList<Process> readyQ;
 	public ArrayList<Process> timechart;

@@ -4,7 +4,6 @@ public class HighestPriorityFirstNONPRE extends Scheduler implements AlgorithmIn
 	public HighestPriorityFirstNONPRE() {super();}
 	
 	public void ScheduleOperations() {
-		// TODO Auto-generated method stub
 		
 	}
 

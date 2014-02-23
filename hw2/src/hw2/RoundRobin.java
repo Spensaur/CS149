@@ -7,24 +7,33 @@ public class RoundRobin extends Scheduler implements AlgorithmInterface{
 	{
 		while(globalQuanta < 100)
 		{
-			if (processQ.peek().arrivalTime < globalQuanta)
+			while (processQ.peekFirst().arrivalTime < globalQuanta && processQ.peekFirst() != null)
 			{
-				currentProcess = processQ.pop();
+				readyQ.add(processQ.pop());
+			}
+			if (readyQ.peek().arrivalTime < globalQuanta)
+			{
+				currentProcess = readyQ.pop();
 			}
 			if (currentProcess != null)
 			{
 				currentProcess.turnAroundTime++;
 				if (currentProcess.expectedRT -1 < 0)
 				{
-					
+					completed.add(currentProcess);
 				}
-				else currentProcess.expectedRT--;
+				else 
+				{
+					currentProcess.expectedRT--;
+					readyQ.add(currentProcess);
+				}
+			}
+			for (Process p: readyQ)
+			{
+				p.turnAroundTime++;
+				p.waitingTime++;
 			}
 			globalQuanta++;
-		}
-		while (readyQ.size() > 0)
-		{
-			
 		}
 	}
 	
