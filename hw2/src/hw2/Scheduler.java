@@ -3,14 +3,13 @@ package hw2;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
-import java.util.Queue;
 
 public class Scheduler{
-	public int globalQuanta;
+	public int globalQuanta;//in general I think you want to increment this one at a time
 	public LinkedList<Process> processQ; //Pull processes from processq until 100quanta then only use readyQ
 	public LinkedList<Process> completed; //put completed processes in here
 	public LinkedList<Process> readyQ; //You can use this as the main queue for the processes
-	public ArrayList<String> timechart;
+	public ArrayList<String> timechart;//add the currentProcess you are working on to the timechart
 	public Process currentProcess;
 	
 	public Scheduler(){
@@ -42,7 +41,6 @@ public class Scheduler{
 		}
 		System.out.print("\n\n");
 	}
-	
 	
 	public void printThroughput()
 	{
@@ -82,11 +80,10 @@ public class Scheduler{
 	public void testProcessQOrder(){
 		for (Process p: processQ)
 		{
-			System.out.println("arrival time: " + p.arrivalTime);
-			System.out.println("expected Runtime: " + p.expectedRT);
-			System.out.println("priority: " + p.priority);
-			System.out.println("responseTime: " + p.responseTime);
-			System.out.println("name: " + p.name);
+			System.out.println("Name: " + p.name);
+			System.out.println("Arrival Time: " + p.arrivalTime);
+			System.out.println("Expected Runtime: " + p.expectedRT);
+			System.out.println("priority: " + p.priority + "\n");
 		}
 	}
 	public void testcompleted()
@@ -105,18 +102,30 @@ public class Scheduler{
 		}
 	}
 	
+	public void testSuite()
+	{
+		printTimeChart();
+		printAVGWait();
+		printAVGResponse();
+		printAVGTurnaround();
+		printThroughput();
+		testcompleted();
+	}
+	
 	
 	public static void main(String[] args){
 		for (int i = 0; i < 5; i++)
 		{
 			RoundRobin robby = new RoundRobin();
-			robby.testProcessQOrder();
+			HighestPriorityFirstPRE HPFPRE = new HighestPriorityFirstPRE();
+			System.out.println("\n\nRound Robin");
+			//robby.testProcessQOrder();
 			robby.ScheduleOperations();
-			robby.printTimeChart();
-			robby.printAVGWait();
-			robby.printAVGResponse();
-			robby.printAVGTurnaround();
-			robby.testcompleted();
+			robby.testSuite();
+			System.out.println("\n\nHighest Priority First Preemptive");
+			//HPFPRE.testProcessQOrder();
+			HPFPRE.ScheduleOperations();
+			HPFPRE.testSuite();
 		}
 	}
 
