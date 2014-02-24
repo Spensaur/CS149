@@ -5,8 +5,9 @@ import java.util.Iterator;
 
 public class ShortestJobFirst extends Scheduler implements AlgorithmInterface 
 {
-	public ShortestJobFirst()
-	{super();}
+	public ShortestJobFirst(){
+        super();
+      }
 	public void ScheduleOperations()
 	{
 		Iterator<Process> iter= processQ.iterator();
