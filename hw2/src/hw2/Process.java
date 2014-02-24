@@ -10,16 +10,18 @@ public class Process implements Comparable<Process>{
 	float turnAroundTime;
 	float waitingTime;
 	float responseTime;
+	boolean touched;
 	
 	public Process (){
 		Random rGen = new Random();
 		arrivalTime = rGen.nextFloat() * 99;
 		expectedRT = (float) (.1 + rGen.nextFloat() * 9.9);
-		priority = 1 + rGen.nextInt(3);
+		priority = 1 + rGen.nextInt(4);
 		name = "";
 		turnAroundTime = 0;
 		waitingTime = 0;
 		responseTime = 0;
+		touched = false;
 	}
 
 	@Override
