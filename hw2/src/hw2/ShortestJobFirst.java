@@ -1,9 +1,38 @@
 package hw2;
 
 import java.util.Scanner;
+import java.util.Iterator;
 
-class ShortestJobFirst {
-    public static void main(String args[])
+public class ShortestJobFirst extends Scheduler implements AlgorithmInterface 
+{
+	public ShortestJobFirst()
+	{super();}
+	public void ScheduleOperations()
+	{
+		Iterator<Process> iter= processQ.iterator();
+		Iterator<Process> iter1= processQ.iterator();
+		float shortestTime; 
+		Process temp;
+		while ((processQ.peek() != null)&&(globalQuanta<100))
+		{
+			shortestTime=processQ.peek().expectedRT;
+			while (iter.hasNext())
+			{
+				if (iter.next().expectedRT<shortestTime)
+				shortestTime=iter.next().expectedRT;
+			}
+			while (iter1.hasNext())
+			{
+				temp=iter1.next();
+				if (iter1.next().expectedRT==shortestTime)
+					iter1.remove();
+				readyQ.add(temp);
+			}
+			
+		}
+		
+	}
+  /*  public static void main(String args[])
     {
         int process[] = new int[10];
         int ptime[] = new int[10];
@@ -51,6 +80,6 @@ class ShortestJobFirst {
             System.out.println(process[i]+"\t"+ptime[i]+"\t"+wtime[i]);
         }
         System.out.println("Total Waiting Time: "+total);
-        System.out.println("Average Waiting Time: "+avg);
+        System.out.println("Average Waiting Time: "+avg);*/
     }
 }
