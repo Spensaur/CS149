@@ -118,6 +118,7 @@ public class Scheduler{
 		{
 			RoundRobin robby = new RoundRobin();
 			HighestPriorityFirstPRE HPFPRE = new HighestPriorityFirstPRE();
+			FirstComeFirstServe FCFS = new FirstComeFirstServe();
 			System.out.println("\n\nRound Robin");
 			//robby.testProcessQOrder();
 			robby.ScheduleOperations();
@@ -126,6 +127,10 @@ public class Scheduler{
 			//HPFPRE.testProcessQOrder();
 			HPFPRE.ScheduleOperations();
 			HPFPRE.testSuite();
+			System.out.println("\n\nFirst Come First Serve");
+			//FCFS.testProcessQOrder();
+			FCFS.ScheduleOperations();
+			FCFS.testSuite();
 		}
 	}
 
