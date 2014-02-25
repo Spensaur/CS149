@@ -1,6 +1,5 @@
 package hw2;
 
-import java.util.Scanner;
 import java.util.Iterator;
 
 public class ShortestJobFirst extends Scheduler implements AlgorithmInterface 
@@ -10,25 +9,38 @@ public class ShortestJobFirst extends Scheduler implements AlgorithmInterface
       }
 	public void ScheduleOperations()
 	{
-		Iterator<Process> iter= processQ.iterator();
-		Iterator<Process> iter1= processQ.iterator();
 		float shortestTime; 
 		Process temp;
-		while ((processQ.peek() != null)&&(globalQuanta<100))
+		while (globalQuanta<100)
 		{
-			shortestTime=processQ.peek().expectedRT;
-			while (iter.hasNext())
-			{
-				if (iter.next().expectedRT<shortestTime)
-				shortestTime=iter.next().expectedRT;
-			}
+		while (processQ.peek()!=null)
+		{
+			Iterator<Process> iter1= processQ.iterator();
 			while (iter1.hasNext())
 			{
 				temp=iter1.next();
-				if (iter1.next().expectedRT==shortestTime)
+				if (temp.arrivalTime<globalQuanta)
 					iter1.remove();
 				readyQ.add(temp);
+			}	
+			shortestTime=readyQ.peek().expectedRT;
+			Iterator<Process> iter= readyQ.iterator();
+			while (iter.hasNext())
+			{
+				temp=iter.next();
+				if (temp.expectedRT<shortestTime)
+				shortestTime=temp.expectedRT;
 			}
+			Iterator<Process> iter2= readyQ.iterator();
+			temp=iter2.next();
+			while ((iter2.hasNext())&&(temp.expectedRT!=shortestTime))
+				temp=iter2.next();
+			readyQ.remove();
+			
+			
+			
+		 }
+			
 			
 		}
 		
