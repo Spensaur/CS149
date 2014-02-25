@@ -33,6 +33,11 @@ public class ShortestJobFirst extends Scheduler implements AlgorithmInterface
 		}
 		
 	}
+	
+	public void helper()
+	{
+		
+	}
   /*  public static void main(String args[])
     {
         int process[] = new int[10];
@@ -81,6 +86,6 @@ public class ShortestJobFirst extends Scheduler implements AlgorithmInterface
             System.out.println(process[i]+"\t"+ptime[i]+"\t"+wtime[i]);
         }
         System.out.println("Total Waiting Time: "+total);
-        System.out.println("Average Waiting Time: "+avg);*/
-    }
+        System.out.println("Average Waiting Time: "+avg);
+    }*/
 }
