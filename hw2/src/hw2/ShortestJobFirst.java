@@ -103,6 +103,7 @@ public class ShortestJobFirst extends Scheduler implements AlgorithmInterface
 			completed.add(currentProcess);
 			currentProcess = null;
 		}
+		else timechart.add("none");
 	}
 		
 }

@@ -32,7 +32,11 @@ public class FirstComeFirstServe extends Scheduler implements AlgorithmInterface
 			readyQ.add(processQ.pop());
 		}
 		if (readyQ.peek() != null) currentProcess = readyQ.pop();
-		if (currentProcess == null) globalQuanta++;
+		if (currentProcess == null) 
+			{
+				timechart.add("none");
+				globalQuanta++;
+			}
 		while(currentProcess != null)
 		{
 			for (Process p: readyQ)

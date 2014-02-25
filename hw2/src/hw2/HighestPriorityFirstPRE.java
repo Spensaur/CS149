@@ -120,6 +120,7 @@ public class HighestPriorityFirstPRE extends Scheduler implements AlgorithmInter
 				priorityStack.get(currentProcess.priority -1).add(currentProcess);
 			}
 		}
+		if (currentProcess == null) timechart.add("none");
 		currentProcess = null;
 		globalQuanta++;
 	}
