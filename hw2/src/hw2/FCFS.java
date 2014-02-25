@@ -7,8 +7,7 @@ package hw2;
  * Time: 3:13 PM
  * To change this template use File | Settings | File Templates.
  */
-import java.util.*;     //import para sa ScannerClass
-import javax.swing.*;   //import para sa JOptionPane class
+import java.util.*;
 
 public class FCFS
 {
@@ -35,7 +34,7 @@ public class FCFS
             System.out.println("JOB" + (b+1) + ":\tBurst Time: " + jobbt[b] + "\t\t" + "Arrival Time: " + jobat[b]);
         }
 
-//BUBBLE SORTING
+
 
         bubble_srt(jobat, jobbt, jmark, 5);
 
@@ -80,7 +79,7 @@ public class FCFS
         }
 
 
-    }//BUBBLE SORTER
+    }
 
 
 
@@ -133,4 +132,4 @@ public class FCFS
     }
 
 
-}//class - FCFS
+}
