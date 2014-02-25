@@ -42,10 +42,13 @@ public class HighestPriorityFirstPRE extends Scheduler implements AlgorithmInter
 				{
 					currentProcess = list.pop();
 				}
-				for (Process p: list)
+				for (LinkedList<Process> list2: priorityStack)
 				{
-					p.turnAroundTime++;
-					p.waitingTime++;
+					for (Process p: list2)
+					{
+						p.turnAroundTime++;
+						p.waitingTime++;
+					}
 				}
 				if (currentProcess != null)
 				{

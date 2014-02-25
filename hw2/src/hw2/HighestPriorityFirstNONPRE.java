@@ -1,17 +1,138 @@
 package hw2;
 
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.LinkedList;
 
 public class HighestPriorityFirstNONPRE extends Scheduler implements AlgorithmInterface{
-	LinkedList<Process> PriorityOne = new LinkedList<Process>();
-	LinkedList<Process> PriorityTwo = new LinkedList<Process>();
-	LinkedList<Process> PriorityThree = new LinkedList<Process>();
-	LinkedList<Process> PriorityFour = new LinkedList<Process>();
+	ArrayList<LinkedList<Process>> priorityStack;
 	
-	public HighestPriorityFirstNONPRE() {super();}
+	public HighestPriorityFirstNONPRE() {
+		super();
+		priorityStack = new ArrayList<LinkedList<Process>>();
+		for(int i = 0; i < 4; i++)
+		{
+			priorityStack.add(new LinkedList<Process>());
+		}
+	}
 	
 	public void ScheduleOperations() {
 		
+		while(globalQuanta < 100)
+		{
+			helper();
+		}
+		for (LinkedList<Process> list: priorityStack)
+		{
+			Iterator<Process> it = list.iterator();
+			//testreadyQ();
+			while (it.hasNext()) 
+			{
+			    Process p = it.next();
+			    if(p.touched == false) it.remove();
+			}
+		}
+		for (LinkedList<Process> list : priorityStack)
+		{
+			while(!list.isEmpty())
+			{
+				if (list.peek() != null)
+				{
+					currentProcess = list.pop();
+				}
+				if (currentProcess == null) 
+				{
+					timechart.add("none");
+					globalQuanta++;
+				}
+				while(currentProcess != null)
+				{
+					for (LinkedList<Process> list2: priorityStack)
+					{
+						for (Process p: list2)
+						{
+							p.turnAroundTime++;
+							p.waitingTime++;
+						}
+					}
+					currentProcess.turnAroundTime++;
+					currentProcess.touched = true;
+					timechart.add(currentProcess.name);
+					if(currentProcess.responseTime == 0) currentProcess.responseTime = globalQuanta;
+					if (currentProcess.expectedRT -1 < 0)
+					{
+						completed.add(currentProcess);
+						currentProcess = null;
+					}
+					else 
+					{
+						currentProcess.expectedRT--;
+					}
+					globalQuanta++;
+				}
+			}
+		}
+		
+	}
+	
+	public void helper()
+	{
+		while (processQ.peekFirst() != null && processQ.peekFirst().arrivalTime < globalQuanta)
+		{
+			int priority = processQ.peekFirst().priority;
+			priorityStack.get(priority -1).add(processQ.pop());
+		}
+		boolean available = false;
+		int check = -1;
+		while(available == false)
+		{
+			check++;
+			if (!priorityStack.get(check).isEmpty()) available = true;
+			if (check == 3 && available == false)
+			{
+				available = true;
+				check = -1;
+			}
+		}
+		if (check != -1)
+		{
+			currentProcess = priorityStack.get(check).pop();
+		}
+		else 
+		{
+			timechart.add("none");
+			globalQuanta++;
+		}
+		for (LinkedList<Process> list: priorityStack)
+		{
+			for (Process p: list)
+			{
+				p.turnAroundTime++;
+				p.waitingTime++;
+			}
+		}
+		while(currentProcess != null)
+		{
+			for (Process p: readyQ)
+			{
+				p.turnAroundTime++;
+				p.waitingTime++;
+			}
+			currentProcess.turnAroundTime++;
+			currentProcess.touched = true;
+			timechart.add(currentProcess.name);
+			if(currentProcess.responseTime == 0) currentProcess.responseTime = globalQuanta;
+			if (currentProcess.expectedRT -1 < 0)
+			{
+				completed.add(currentProcess);
+				currentProcess = null;
+			}
+			else 
+			{
+				currentProcess.expectedRT--;
+			}
+			globalQuanta++;
+		}
 	}
 
 }
