@@ -25,18 +25,21 @@ struct linkedlist
 
 typedef struct linkedlist list;
 
-list queues[10];
+list queue[10];
 
-void addCustomer(linkedlist l)
+void addCustomer(list l)
 {
 	list *newNode= (list*)malloc(sizeof(list));
 	newNode->time= currenttime; 
 	newNode->next= NULL;
-	l->next= newNode;
+	l->last->next= newNode;
+	l->last= newNode;
 }
 
-void removeNode()
+void removeCustomer(list l)
 {
+	l->first=l->first->next; 
+// set the ->next to null, free(no star)
 }
 
 void main(int argc, char *argv[])
@@ -46,8 +49,10 @@ void main(int argc, char *argv[])
 	for (int i=0; i<10; i++)
 	{
 		queue[i]= (list*)malloc(sizeof(list));
-		queue[i]->time=rand()%60;
-		
+		queue[i]->first=(struct node*)malloc(sizeof(struct node*)); 
+		queue[i]->first->time=-1;
+		queue[i]->first->next=NULL; 
+		queue[i]->last=queue[i]->first;
 	}
 	while (currenttime<60)
 	{
@@ -56,8 +61,12 @@ void main(int argc, char *argv[])
 		int random=rand%currenttime;
 		if (random<=n)
 			{
-			addCustomer(queue[i]);
+			addCustomer(queue[i]);			
 			}
+		if (queue[i]->first->time ==-1)
+			{
+				queue[i]->first=queue[i]->first->next;
+			}	
 		}
 	currenttime++;		
 	}
