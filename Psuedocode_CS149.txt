@@ -1,0 +1,30 @@
+100 seats available
+
+H-price ticket seller: H
+M-price ticket seller: M1, M2, M3
+L-price ticket seller: L1, L2, L3, L4, L5, L6
+
+
+“How many customers would you like to send:”
+n customers per seller{H, M1, M2, M3, L1, L2, L3, L4, L5, L6 }
+n customers arrive at the start of every minute
+	for n customers arriving,
+		the first one that arrived is served
+			check if seats are available
+				yes?
+			complete sale
+				no?
+			customer leaves
+concert seating = [10][10] = 10 * 10 = 10 by 10
+
+H : assigns seats starting at row1 and works backwards
+L : assigns seats starting at row 10 and work forward
+M : assigns seats starting in row 5, then row 6, then row 4, then row 7, row 3, then row 8, row 2 then row 9,  row 1 then row 10
+
+Print a log when - customer arrives at tail of seller queue
+	    	 -customer is served and assigned seat, or is told there are no more seats
+		-A customer completes a ticket purchase and leaves
+
+Print Concert seating chart
+
+
