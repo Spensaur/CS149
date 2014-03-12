@@ -1,0 +1,2402 @@
+Attendee L401 arrives and waits
+Attendee L801 arrives and waits
+Attendee M301 arrives and waits
+Attendee M302 arrives and waits
+Attendee L501 arrives and waits
+Attendee L601 arrives and waits
+Attendee L701 arrives and waits
+Attendee H001 arrives and waits
+Attendee M101 arrives and waits
+TIME: 0:03 EVENT: M301 seated at seat: [4][0]
+
+--SEATING CHART--
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+
+TIME: 0:03 EVENT: H001 seated at seat: [0][0]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+
+Attendee M201 arrives and waits
+TIME: 0:04 EVENT: L401 seated at seat: [9][9]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -  L401 
+
+Attendee L402 arrives and waits
+TIME: 0:05 EVENT: L501 seated at seat: [9][8]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -  L501 L401 
+
+TIME: 0:05 EVENT: L601 seated at seat: [9][7]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -  L601 L501 L401 
+
+TIME: 0:05 EVENT: L801 seated at seat: [9][6]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -  L801 L601 L501 L401 
+
+Attendee L901 arrives and waits
+Attendee L602 arrives and waits
+Attendee L802 arrives and waits
+Attendee L803 arrives and waits
+TIME: 0:05 EVENT: M101 seated at seat: [4][1]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -  L801 L601 L501 L401 
+
+Attendee M102 arrives and waits
+TIME: 0:06 EVENT: M302 seated at seat: [4][2]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302   -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -  L801 L601 L501 L401 
+
+Attendee M303 arrives and waits
+Attendee M304 arrives and waits
+TIME: 0:07 EVENT: M201 seated at seat: [4][3]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -  L801 L601 L501 L401 
+
+Attendee M202 arrives and waits
+Attendee M203 arrives and waits
+Attendee L502 arrives and waits
+TIME: 0:07 EVENT: L701 seated at seat: [9][5]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -  L701 L801 L601 L501 L401 
+
+Attendee L702 arrives and waits
+Attendee L703 arrives and waits
+Attendee L704 arrives and waits
+TIME: 0:08 EVENT: M102 seated at seat: [4][4]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102   -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -  L701 L801 L601 L501 L401 
+
+TIME: 0:08 EVENT: M303 seated at seat: [4][5]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -  L701 L801 L601 L501 L401 
+
+Attendee M103 arrives and waits
+Attendee M104 arrives and waits
+Attendee M105 arrives and waits
+TIME: 0:09 EVENT: M202 seated at seat: [4][6]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -  L701 L801 L601 L501 L401 
+
+TIME: 0:09 EVENT: L402 seated at seat: [9][4]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -  L402 L701 L801 L601 L501 L401 
+
+Attendee L403 arrives and waits
+TIME: 0:09 EVENT: L802 seated at seat: [9][3]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -  L802 L402 L701 L801 L601 L501 L401 
+
+Attendee H002 arrives and waits
+TIME: 0:10 EVENT: L602 seated at seat: [9][2]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -  L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L603 arrives and waits
+Attendee L604 arrives and waits
+TIME: 0:10 EVENT: M103 seated at seat: [4][7]
+
+--SEATING CHART--
+H001   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -  L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:11 EVENT: H002 seated at seat: [0][1]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -  L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:11 EVENT: L502 seated at seat: [9][1]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -  L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L503 arrives and waits
+Attendee L504 arrives and waits
+TIME: 0:11 EVENT: M203 seated at seat: [4][8]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203   -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -  L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:11 EVENT: M304 seated at seat: [4][9]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -  L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M305 arrives and waits
+TIME: 0:11 EVENT: L901 seated at seat: [9][0]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L902 arrives and waits
+Attendee M204 arrives and waits
+TIME: 0:12 EVENT: L702 seated at seat: [8][9]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -  L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:13 EVENT: L403 seated at seat: [8][8]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -  L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:13 EVENT: M305 seated at seat: [5][0]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -  L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:13 EVENT: L803 seated at seat: [8][7]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305   -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -  L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M306 arrives and waits
+TIME: 0:13 EVENT: M104 seated at seat: [5][1]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -  L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:14 EVENT: M204 seated at seat: [5][2]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204   -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -  L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:14 EVENT: L603 seated at seat: [8][6]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204   -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -  L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M205 arrives and waits
+TIME: 0:15 EVENT: M105 seated at seat: [5][3]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -  L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M106 arrives and waits
+Attendee L404 arrives and waits
+TIME: 0:16 EVENT: L503 seated at seat: [8][5]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -  L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:16 EVENT: L902 seated at seat: [8][4]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -  L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L903 arrives and waits
+TIME: 0:16 EVENT: M306 seated at seat: [5][4]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306   -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -  L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M307 arrives and waits
+Attendee H003 arrives and waits
+Attendee H004 arrives and waits
+TIME: 0:17 EVENT: L703 seated at seat: [8][3]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306   -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -  L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:18 EVENT: M205 seated at seat: [5][5]
+
+--SEATING CHART--
+H001 H002   -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -  L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M206 arrives and waits
+TIME: 0:18 EVENT: H003 seated at seat: [0][2]
+
+--SEATING CHART--
+H001 H002 H003   -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -  L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:18 EVENT: M307 seated at seat: [5][6]
+
+--SEATING CHART--
+H001 H002 H003   -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -  L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M308 arrives and waits
+TIME: 0:18 EVENT: M106 seated at seat: [5][7]
+
+--SEATING CHART--
+H001 H002 H003   -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -  L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M107 arrives and waits
+TIME: 0:19 EVENT: H004 seated at seat: [0][3]
+
+--SEATING CHART--
+H001 H002 H003 H004   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -  L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:19 EVENT: L604 seated at seat: [8][2]
+
+--SEATING CHART--
+H001 H002 H003 H004   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -  L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L605 arrives and waits
+TIME: 0:20 EVENT: L404 seated at seat: [8][1]
+
+--SEATING CHART--
+H001 H002 H003 H004   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -  L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L405 arrives and waits
+Attendee L406 arrives and waits
+Attendee L407 arrives and waits
+Attendee L408 arrives and waits
+Attendee L409 arrives and waits
+TIME: 0:20 EVENT: L903 seated at seat: [8][0]
+
+--SEATING CHART--
+H001 H002 H003 H004   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L904 arrives and waits
+Attendee L905 arrives and waits
+TIME: 0:21 EVENT: M206 seated at seat: [5][8]
+
+--SEATING CHART--
+H001 H002 H003 H004   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206   -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M207 arrives and waits
+TIME: 0:21 EVENT: L504 seated at seat: [7][9]
+
+--SEATING CHART--
+H001 H002 H003 H004   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206   -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -  L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L505 arrives and waits
+Attendee L804 arrives and waits
+TIME: 0:21 EVENT: L704 seated at seat: [7][8]
+
+--SEATING CHART--
+H001 H002 H003 H004   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206   -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -  L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L705 arrives and waits
+Attendee L706 arrives and waits
+Attendee L707 arrives and waits
+TIME: 0:21 EVENT: M308 seated at seat: [5][9]
+
+--SEATING CHART--
+H001 H002 H003 H004   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -  L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M309 arrives and waits
+Attendee M310 arrives and waits
+TIME: 0:21 EVENT: M107 seated at seat: [3][0]
+
+--SEATING CHART--
+H001 H002 H003 H004   -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107   -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -  L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M108 arrives and waits
+Attendee H005 arrives and waits
+TIME: 0:23 EVENT: H005 seated at seat: [0][4]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005   -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107   -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -  L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:23 EVENT: L605 seated at seat: [7][7]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005   -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107   -    -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -  L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L606 arrives and waits
+Attendee L607 arrives and waits
+Attendee L608 arrives and waits
+Attendee L609 arrives and waits
+TIME: 0:23 EVENT: M309 seated at seat: [3][1]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005   -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309   -    -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -  L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee H006 arrives and waits
+TIME: 0:24 EVENT: M207 seated at seat: [3][2]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005   -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207   -    -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -  L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:24 EVENT: M108 seated at seat: [3][3]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005   -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108   -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -  L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M109 arrives and waits
+Attendee M110 arrives and waits
+TIME: 0:25 EVENT: H006 seated at seat: [0][5]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108   -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -  L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:25 EVENT: L505 seated at seat: [7][6]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108   -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -  L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:25 EVENT: L405 seated at seat: [7][5]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108   -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -  L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:25 EVENT: L904 seated at seat: [7][4]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108   -    -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -  L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:25 EVENT: M310 seated at seat: [3][4]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310   -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -  L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:26 EVENT: L804 seated at seat: [7][3]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310   -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -  L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L805 arrives and waits
+Attendee M208 arrives and waits
+Attendee L506 arrives and waits
+TIME: 0:27 EVENT: L705 seated at seat: [7][2]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310   -    -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -  L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:27 EVENT: M109 seated at seat: [3][5]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109   -    -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -  L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M311 arrives and waits
+Attendee H007 arrives and waits
+TIME: 0:29 EVENT: M208 seated at seat: [3][6]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208   -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -    -  L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M209 arrives and waits
+Attendee M210 arrives and waits
+TIME: 0:29 EVENT: L606 seated at seat: [7][1]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006   -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208   -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -  L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:30 EVENT: H007 seated at seat: [0][6]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208   -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+  -  L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:30 EVENT: L805 seated at seat: [7][0]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208   -    -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L806 arrives and waits
+Attendee L807 arrives and waits
+Attendee L808 arrives and waits
+TIME: 0:30 EVENT: M110 seated at seat: [3][7]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110   -    -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M111 arrives and waits
+TIME: 0:31 EVENT: M311 seated at seat: [3][8]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311   -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -    -  
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M312 arrives and waits
+Attendee M313 arrives and waits
+Attendee M314 arrives and waits
+TIME: 0:31 EVENT: L506 seated at seat: [6][9]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311   -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -    -  L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L507 arrives and waits
+Attendee L508 arrives and waits
+Attendee L509 arrives and waits
+TIME: 0:31 EVENT: L406 seated at seat: [6][8]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311   -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -    -  L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:31 EVENT: L905 seated at seat: [6][7]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311   -  
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -  L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L906 arrives and waits
+Attendee L907 arrives and waits
+Attendee L908 arrives and waits
+Attendee L909 arrives and waits
+Attendee H008 arrives and waits
+TIME: 0:32 EVENT: M209 seated at seat: [3][9]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+  -    -    -    -    -    -    -  L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:32 EVENT: M111 seated at seat: [6][0]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007   -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111   -    -    -    -    -    -  L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M112 arrives and waits
+TIME: 0:33 EVENT: H008 seated at seat: [0][7]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111   -    -    -    -    -    -  L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:33 EVENT: M312 seated at seat: [6][1]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312   -    -    -    -    -  L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:33 EVENT: L706 seated at seat: [6][6]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312   -    -    -    -  L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:33 EVENT: L607 seated at seat: [6][5]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312   -    -    -  L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:34 EVENT: M210 seated at seat: [6][2]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210   -    -  L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:34 EVENT: L806 seated at seat: [6][4]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210   -  L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M211 arrives and waits
+TIME: 0:35 EVENT: M112 seated at seat: [6][3]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M113 arrives and waits
+Attendee M114 arrives and waits
+TIME: 0:36 EVENT: M313 seated at seat: [2][0]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M313   -    -    -    -    -    -    -    -    -  
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:36 EVENT: L507 seated at seat: [2][9]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M313   -    -    -    -    -    -    -    -  L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:36 EVENT: L407 seated at seat: [2][8]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M313   -    -    -    -    -    -    -  L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:36 EVENT: L906 seated at seat: [2][7]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M313   -    -    -    -    -    -  L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:37 EVENT: M211 seated at seat: [2][1]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M313 M211   -    -    -    -    -  L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:37 EVENT: M113 seated at seat: [2][2]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M313 M211 M113   -    -    -    -  L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee H009 arrives and waits
+Attendee M212 arrives and waits
+Attendee M213 arrives and waits
+TIME: 0:38 EVENT: L707 seated at seat: [2][6]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M313 M211 M113   -    -    -  L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L708 arrives and waits
+Attendee L709 arrives and waits
+Attendee L710 arrives and waits
+Attendee L711 arrives and waits
+TIME: 0:38 EVENT: L608 seated at seat: [2][5]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008   -    -  
+  -    -    -    -    -    -    -    -    -    -  
+M313 M211 M113   -    -  L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:39 EVENT: H009 seated at seat: [0][8]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009   -  
+  -    -    -    -    -    -    -    -    -    -  
+M313 M211 M113   -    -  L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee H010 arrives and waits
+TIME: 0:39 EVENT: M314 seated at seat: [2][3]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009   -  
+  -    -    -    -    -    -    -    -    -    -  
+M313 M211 M113 M314   -  L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M315 arrives and waits
+Attendee M316 arrives and waits
+TIME: 0:39 EVENT: L807 seated at seat: [2][4]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009   -  
+  -    -    -    -    -    -    -    -    -    -  
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:40 EVENT: H010 seated at seat: [0][9]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+  -    -    -    -    -    -    -    -    -    -  
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee H011 arrives and waits
+Attendee H012 arrives and waits
+TIME: 0:40 EVENT: M114 seated at seat: [1][0]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114   -    -    -    -    -    -    -    -    -  
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M115 arrives and waits
+Attendee M116 arrives and waits
+TIME: 0:41 EVENT: M212 seated at seat: [1][1]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212   -    -    -    -    -    -    -    -  
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:41 EVENT: H011 seated at seat: [1][2]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011   -    -    -    -    -    -    -  
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:41 EVENT: M315 seated at seat: [1][3]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315   -    -    -    -    -    -  
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:41 EVENT: L508 seated at seat: [1][9]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315   -    -    -    -    -  L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:42 EVENT: H012 seated at seat: [1][4]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012   -    -    -    -  L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:42 EVENT: L408 seated at seat: [1][8]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012   -    -    -  L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:42 EVENT: L907 seated at seat: [1][7]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012   -    -  L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee H013 arrives and waits
+TIME: 0:43 EVENT: M316 seated at seat: [1][5]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316   -  L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M317 arrives and waits
+TIME: 0:43 EVENT: L609 seated at seat: [1][6]
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L610 arrives and waits
+Attendee L611 arrives and waits
+Attendee L612 arrives and waits
+Attendee L613 arrives and waits
+Attendee L614 arrives and waits
+Attendee L615 arrives and waits
+TIME: 0:43 EVENT: Ran out of seats for attendee:  M116
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:44 EVENT: Ran out of seats for attendee:  H013
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:44 EVENT: Ran out of seats for attendee:  M213
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M214 arrives and waits
+Attendee M215 arrives and waits
+TIME: 0:44 EVENT: Ran out of seats for attendee:  L711
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:44 EVENT: Ran out of seats for attendee:  L808
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L809 arrives and waits
+Attendee L810 arrives and waits
+Attendee L811 arrives and waits
+Attendee L812 arrives and waits
+TIME: 0:45 EVENT: Ran out of seats for attendee:  L509
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L510 arrives and waits
+Attendee L511 arrives and waits
+Attendee L512 arrives and waits
+Attendee L513 arrives and waits
+Attendee L514 arrives and waits
+Attendee L515 arrives and waits
+TIME: 0:46 EVENT: Ran out of seats for attendee:  M317
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M318 arrives and waits
+TIME: 0:46 EVENT: Ran out of seats for attendee:  M116
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M117 arrives and waits
+TIME: 0:47 EVENT: Ran out of seats for attendee:  M215
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:48 EVENT: Ran out of seats for attendee:  L409
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L410 arrives and waits
+Attendee L411 arrives and waits
+Attendee L412 arrives and waits
+Attendee L413 arrives and waits
+Attendee L414 arrives and waits
+Attendee L415 arrives and waits
+TIME: 0:48 EVENT: Ran out of seats for attendee:  L615
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:48 EVENT: Ran out of seats for attendee:  L812
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:48 EVENT: Ran out of seats for attendee:  L909
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:48 EVENT: Ran out of seats for attendee:  M117
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee H014 arrives and waits
+TIME: 0:49 EVENT: Ran out of seats for attendee:  M318
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:49 EVENT: Ran out of seats for attendee:  L515
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:49 EVENT: Ran out of seats for attendee:  L711
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M118 arrives and waits
+TIME: 0:50 EVENT: Ran out of seats for attendee:  H014
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee H015 arrives and waits
+Attendee H016 arrives and waits
+TIME: 0:50 EVENT: Ran out of seats for attendee:  M215
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M216 arrives and waits
+Attendee M319 arrives and waits
+TIME: 0:51 EVENT: Ran out of seats for attendee:  H016
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:52 EVENT: Ran out of seats for attendee:  M118
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:52 EVENT: Ran out of seats for attendee:  H016
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee H017 arrives and waits
+TIME: 0:52 EVENT: Ran out of seats for attendee:  M216
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:52 EVENT: Ran out of seats for attendee:  L615
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:53 EVENT: Ran out of seats for attendee:  M319
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:53 EVENT: Ran out of seats for attendee:  H017
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:53 EVENT: Ran out of seats for attendee:  L812
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M217 arrives and waits
+TIME: 0:54 EVENT: Ran out of seats for attendee:  L415
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:54 EVENT: Ran out of seats for attendee:  L515
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:54 EVENT: Ran out of seats for attendee:  L711
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:54 EVENT: Ran out of seats for attendee:  L909
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L910 arrives and waits
+Attendee L911 arrives and waits
+Attendee L912 arrives and waits
+Attendee L913 arrives and waits
+Attendee L914 arrives and waits
+Attendee L915 arrives and waits
+Attendee L916 arrives and waits
+Attendee L917 arrives and waits
+Attendee H018 arrives and waits
+Attendee H019 arrives and waits
+TIME: 0:56 EVENT: Ran out of seats for attendee:  H019
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:56 EVENT: Ran out of seats for attendee:  M217
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:57 EVENT: Ran out of seats for attendee:  H019
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:57 EVENT: Ran out of seats for attendee:  L615
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M320 arrives and waits
+Attendee M218 arrives and waits
+Attendee M219 arrives and waits
+TIME: 0:58 EVENT: Ran out of seats for attendee:  L711
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L712 arrives and waits
+Attendee L713 arrives and waits
+Attendee L714 arrives and waits
+Attendee L715 arrives and waits
+Attendee L716 arrives and waits
+Attendee L717 arrives and waits
+Attendee L718 arrives and waits
+Attendee L719 arrives and waits
+Attendee L720 arrives and waits
+Attendee H020 arrives and waits
+Attendee M119 arrives and waits
+Attendee M120 arrives and waits
+TIME: 0:59 EVENT: Ran out of seats for attendee:  L415
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:59 EVENT: Ran out of seats for attendee:  L812
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 0:59 EVENT: Ran out of seats for attendee:  L917
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:00 EVENT: Ran out of seats for attendee:  H020
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:00 EVENT: Ran out of seats for attendee:  M320
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:00 EVENT: Ran out of seats for attendee:  M219
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:00 EVENT: Ran out of seats for attendee:  L515
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:00 EVENT: Done selling tickets
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L516 arrives and waits
+Attendee L517 arrives and waits
+Attendee L518 arrives and waits
+Attendee L519 arrives and waits
+Attendee L520 arrives and waits
+TIME: 1:01 EVENT: Ran out of seats for attendee:  L615
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:01 EVENT: Done selling tickets
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L616 arrives and waits
+Attendee L617 arrives and waits
+Attendee L618 arrives and waits
+Attendee L619 arrives and waits
+Attendee L620 arrives and waits
+TIME: 1:02 EVENT: Ran out of seats for attendee:  M120
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:02 EVENT: Done selling tickets
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:03 EVENT: Ran out of seats for attendee:  M219
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:03 EVENT: Done selling tickets
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee M220 arrives and waits
+TIME: 1:04 EVENT: Ran out of seats for attendee:  L720
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:04 EVENT: Done selling tickets
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:05 EVENT: Ran out of seats for attendee:  L415
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:05 EVENT: Done selling tickets
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L416 arrives and waits
+Attendee L417 arrives and waits
+Attendee L418 arrives and waits
+Attendee L419 arrives and waits
+Attendee L420 arrives and waits
+TIME: 1:05 EVENT: Ran out of seats for attendee:  L812
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:05 EVENT: Done selling tickets
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L813 arrives and waits
+Attendee L814 arrives and waits
+Attendee L815 arrives and waits
+Attendee L816 arrives and waits
+Attendee L817 arrives and waits
+Attendee L818 arrives and waits
+Attendee L819 arrives and waits
+Attendee L820 arrives and waits
+TIME: 1:05 EVENT: Ran out of seats for attendee:  L917
+
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+TIME: 1:05 EVENT: Done selling tickets
+--SEATING CHART--
+H001 H002 H003 H004 H005 H006 H007 H008 H009 H010 
+M114 M212 H011 M315 H012 M316 L609 L907 L408 L508 
+M313 M211 M113 M314 L807 L608 L707 L906 L407 L507 
+M107 M309 M207 M108 M310 M109 M208 M110 M311 M209 
+M301 M101 M302 M201 M102 M303 M202 M103 M203 M304 
+M305 M104 M204 M105 M306 M205 M307 M106 M206 M308 
+M111 M312 M210 M112 L806 L607 L706 L905 L406 L506 
+L805 L606 L705 L804 L904 L405 L505 L605 L704 L504 
+L903 L404 L604 L703 L902 L503 L603 L803 L403 L702 
+L901 L502 L602 L802 L402 L701 L801 L601 L501 L401 
+
+Attendee L918 arrives and waits
