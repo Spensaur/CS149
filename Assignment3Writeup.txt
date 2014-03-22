@@ -1,0 +1,6 @@
+Spencer Lehrman
+Sasha Smirnova
+Rohit Krishnan
+
+For assignment 3, we built a program that allowed multiple queues of customers to buy tickets at each respective ticketbooth.  We ran into many issues at first but figured them out eventually.  The multithreading was something that we had to understand if we were going to successfully write the program.  We ran into more complications towards the end of the process as we had an issue with GIT and it caused us to back track a bit, hence the late submission.  
+There were a total of 11 critical regions. The main critical region was the 2d array that represented the seating arrangement. All of the ticketbooth threads needed access to it. The other 10 critical regions were each tickbooth queue. Each ticketbooth queue was accessed only by its respective ticketbooth thread and the attendee threads assigned to that ticketboth number. a semaphore was needed for each ticketbooth to make it wait when its respective queue was empty, a print mutex was needed to protect printing, and a seating mutex was needed to protect access to the seating chart.
