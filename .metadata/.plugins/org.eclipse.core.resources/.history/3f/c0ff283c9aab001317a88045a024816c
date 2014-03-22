@@ -1,0 +1,9 @@
+package hw4;
+
+public class FirstFit extends MemManager implements AlgorithmInterface {
+
+	public void SwapOperations() {
+		
+	}
+
+}

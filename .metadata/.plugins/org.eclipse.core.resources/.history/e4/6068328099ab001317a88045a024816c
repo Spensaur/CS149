@@ -1,0 +1,11 @@
+package hw4;
+
+public class BestFit extends MemManager implements AlgorithmInterface{
+
+	@Override
+	public void SwapOperations() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -42,12 +42,13 @@ public class Scheduler{
 		System.out.print("\n\n");
 	}
 	
-	public void printThroughput()
+	public float printThroughput()
 	{
-		System.out.println("Throughput: " + ((double)completed.size()/(double)globalQuanta));
+		System.out.println("Throughput: " + ((float)completed.size()/(float)globalQuanta));
+		return (float)completed.size()/(float)globalQuanta;
 	}
 	
-	public void printAVGTurnaround()
+	public float printAVGTurnaround()
 	{
 		float turnAroundTotal = 0;
 		for (Process p: completed)
@@ -55,9 +56,10 @@ public class Scheduler{
 			turnAroundTotal += p.turnAroundTime;
 		}
 		System.out.println("Average Turnaround Time: " + (turnAroundTotal/completed.size()));
+		return turnAroundTotal/completed.size();
 	}
 	
-	public void printAVGWait()
+	public float printAVGWait()
 	{
 		float waitTotal = 0;
 		for (Process p: completed)
@@ -65,9 +67,10 @@ public class Scheduler{
 			waitTotal += p.waitingTime;
 		}
 		System.out.println("Average Wait Time: " + (waitTotal/completed.size()));
+		return waitTotal/completed.size();
 	}
 	
-	public void printAVGResponse()
+	public float printAVGResponse()
 	{
 		float responseTotal = 0;
 		for (Process p: completed)
@@ -75,6 +78,7 @@ public class Scheduler{
 			responseTotal += p.responseTime;
 		}
 		System.out.println("Average Response Time: " + (responseTotal/completed.size()));
+		return responseTotal/completed.size();
 	}
 	
 	public void testProcessQOrder(){
@@ -114,6 +118,26 @@ public class Scheduler{
 	
 	
 	public static void main(String[] args){
+//		float rrAVGWait = 0;
+//		float rrAVGRResponse = 0;
+//		float rrtAVGTurnaround = 0;
+//		float rrThroughput = 0;
+//		
+//		for (int i = 0; i < 30; i++)
+//		{
+//			RoundRobin robby = new RoundRobin();
+//			rrAVGWait += robby.printAVGWait();
+//			rrAVGRResponse += robby.printAVGResponse();
+//			rrtAVGTurnaround += robby.printAVGTurnaround();
+//			rrThroughput += robby.printThroughput();
+//		}
+//		
+//		System.out.println("Average wait:" + rrAVGWait/30);
+//		System.out.println("Average response:" + rrAVGWait/30);
+//		System.out.println("Average Turnaround:" + rrAVGWait/30);
+//		System.out.println("Throughput:" + rrAVGWait/30);
+//		
+		
 		for (int i = 0; i < 5; i++)
 		{
 			RoundRobin robby = new RoundRobin();
@@ -123,27 +147,39 @@ public class Scheduler{
 			ShortestRemainingTime SRT = new ShortestRemainingTime();
 			HighestPriorityFirstNONPRE  HPFNONPRE = new HighestPriorityFirstNONPRE();
 			System.out.println("\n\nRound Robin");
-			//robby.testProcessQOrder();
+			robby.testProcessQOrder();
 			robby.ScheduleOperations();
 			robby.testSuite();
+//			robby.printTimeChart();
+//			robby.printAVGWait();
+//			robby.printAVGResponse();
+//			robby.printAVGTurnaround();
+//			robby.printThroughput();
+//			robby.testcompleted();
 			System.out.println("\n\nHighest Priority First Preemptive");
-			//HPFPRE.testProcessQOrder();
+			HPFPRE.testProcessQOrder();
 			HPFPRE.ScheduleOperations();
 			HPFPRE.testSuite();
+//			HPFPRE.printTimeChart();
+//			HPFPRE.printAVGWait();
+//			HPFPRE.printAVGResponse();
+//			HPFPRE.printAVGTurnaround();
+//			HPFPRE.printThroughput();
+//			HPFPRE.testcompleted();
 			System.out.println("\n\nFirst Come First Serve");
-			//FCFS.testProcessQOrder();
+			FCFS.testProcessQOrder();
 			FCFS.ScheduleOperations();
 			FCFS.testSuite();
 			System.out.println("\n\nShortest Job First");
-			//SJF.testProcessQOrder();
+			SJF.testProcessQOrder();
 			SJF.ScheduleOperations();
 			SJF.testSuite();
 			System.out.println("\n\nShortest Remaining Time");
-			//SRT.testProcessQOrder();
+			SRT.testProcessQOrder();
 			SRT.ScheduleOperations();
 			SRT.testSuite();
 			System.out.println("\n\nHighest Priority First Non-Preemptive");
-			//HPFNONPRE.testProcessQOrder();
+			HPFNONPRE.testProcessQOrder();
 			HPFNONPRE.ScheduleOperations();
 			HPFNONPRE.testSuite();
 		}

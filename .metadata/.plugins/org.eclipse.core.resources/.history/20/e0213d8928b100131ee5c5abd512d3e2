@@ -1,0 +1,15 @@
+package hw4;
+import java.util.*;
+
+public class Process {
+	int memSize;
+	int duration;
+	int name;
+	public Process()
+	{
+		Random rGen = new Random();
+		memSize = (int) Math.pow(2, (rGen.nextInt(4) + 2)) - 1;
+		duration = rGen.nextInt(5) + 1;
+		System.out.print("memSize: " + memSize +"\nduration: " + duration +"\n ");
+	}
+}

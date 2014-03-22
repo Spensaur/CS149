@@ -1,0 +1,27 @@
+package hw4;
+
+public class Swapper extends MemManager{
+
+	int memPointer = 0;
+	public Swapper(){super();};
+	
+	public void firstFit() {
+		int minSize = processQ.peekFirst().memSize;
+		int holeSize = 0;
+		int counter = 0;
+		while(holeSize < minSize || counter < 100)
+		{
+			if(memStorage[counter] == null) holeSize++;
+			else holeSize = 0;
+			counter++;
+		}
+	}
+	
+	public void nextFit() {
+		
+	}
+	
+	public void bestFit() {
+		
+	}
+}

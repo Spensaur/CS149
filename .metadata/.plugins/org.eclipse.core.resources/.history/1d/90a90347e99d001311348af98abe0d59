@@ -1,0 +1,22 @@
+package hw2;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+
+public class HighestPriorityFirstNONPRE extends Scheduler implements AlgorithmInterface{
+	ArrayList<LinkedList<Process>> priorityStack;
+	
+	public HighestPriorityFirstNONPRE() {
+		super();
+		priorityStack = new ArrayList<LinkedList<Process>>();
+		for(int i = 0; i < 4; i++)
+		{
+			priorityStack.add(new LinkedList<Process>());
+		}
+	}
+	
+	public void ScheduleOperations() {
+		
+	}
+
+}

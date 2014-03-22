@@ -1,0 +1,17 @@
+package hw4;
+
+public class MemManager {
+	
+	int maxTime;
+	
+	public MemManager()
+	{
+		maxTime = 60;
+	}
+	
+	public static void main(String[] args)
+	{
+		
+	}
+
+}

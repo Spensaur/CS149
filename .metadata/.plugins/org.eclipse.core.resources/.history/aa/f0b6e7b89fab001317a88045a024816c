@@ -1,0 +1,11 @@
+package hw4;
+
+public class BestFit extends MemManager implements AlgorithmInterface{
+
+	public BestFit(){super();};
+	
+	public void SwapOperations() {
+		
+	}
+
+}

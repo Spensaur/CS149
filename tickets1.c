@@ -25,7 +25,7 @@ struct linkedlist
 
 typedef struct linkedlist list;
 
-list queues[10];
+list queue[10];
 
 void addCustomer(linkedlist l)
 {

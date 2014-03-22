@@ -1,0 +1,113 @@
+package hw4;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+
+public class Swapper extends MemManager{
+
+	int memPointer = 0;
+	public Swapper(){super();};
+	
+	public void firstFit() {
+		while (timeCounter < 60)
+		{
+			System.out.println("Time passed: "+ timeCounter);
+			memPointer = 0;
+			removeProcess();
+			int minSize = processQ.peekFirst().memSize;
+			int holeSize = 0;
+			int counter = 0;
+			while(holeSize < minSize && counter < 100)
+			{
+				if(memStorage[counter] == null) 
+				{
+					holeSize++;
+				}
+				else 
+				{
+					memPointer = counter + 1;
+					holeSize = 0;
+				}
+				counter++;
+			}
+			if (holeSize >= minSize)
+			{
+				addProcess(memPointer, processQ.pollFirst());
+			}
+			timeCounter++;
+			//memPointer = 0;
+			printMem();
+		}
+	}
+	
+	public void nextFit() {
+		int nfPointer = 0;
+		while (timeCounter < 60)
+		{
+			System.out.println("Time passed: "+ timeCounter);
+			removeProcess();
+			int minSize = processQ.peekFirst().memSize;
+			memPointer = nfPointer;
+			int holeSize = 0;
+			int nfCounter = nfPointer;
+			int counter = 0;
+			while(holeSize < minSize && counter < 100)
+			{
+				if(nfPointer + counter > 99)
+				{
+					holeSize = 0;
+					memPointer = 0;
+					nfPointer = 0;
+					nfCounter = 0;
+				}
+				else if(memStorage[counter] == null) 
+				{
+					holeSize++;
+				}
+				else 
+				{
+					memPointer = nfCounter + 1;
+					holeSize = 0;
+				}
+				counter++;
+				nfCounter++;
+			}
+			if (holeSize >= minSize)
+			{
+				addProcess(memPointer, processQ.pollFirst());
+			}
+			timeCounter++;
+			nfPointer = memPointer+minSize;
+			//memPointer = 0;
+			printMem();
+		}
+	}
+	
+	public void bestFit() {
+		ArrayList<Integer> holeStore = new ArrayList<Integer>();
+		int minSize = processQ.peekFirst().memSize;
+		int holeSize = 0;
+		int bestHole = 100;
+		for(int i = 0; i < 100; i++)
+		{
+			if(memStorage[i] == null) 
+			{
+				holeSize++;
+			}
+			else 
+			{
+				//holeStore.add(e)
+				holeSize = 0;
+			}
+
+		}
+		for(Integer I: holeStore)
+		{
+			if (I.intValue() > minSize && I.intValue() < bestHole)
+			{
+				
+			}
+		}
+		
+	}
+}

@@ -1,0 +1,19 @@
+package hw4;
+
+public class Swapper extends MemManager{
+
+	int memPointer = 0;
+	public Swapper(){super();};
+	
+	public void firstFit() {
+		
+	}
+	
+	public void nextFit() {
+		
+	}
+	
+	public void bestFit() {
+		
+	}
+}

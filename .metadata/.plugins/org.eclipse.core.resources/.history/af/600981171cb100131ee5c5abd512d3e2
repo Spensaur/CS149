@@ -1,0 +1,71 @@
+package hw4;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+
+public class Swapper extends MemManager{
+
+	int memPointer = 0;
+	public Swapper(){super();};
+	
+	public void firstFit() {
+		while (timeCounter < 60)
+		{
+			int minSize = processQ.peekFirst().memSize;
+			int holeSize = 0;
+			int counter = 0;
+			while(holeSize < minSize || counter < 100)
+			{
+				if(memStorage[counter] == null) holeSize++;
+				else holeSize = 0;
+				counter++;
+			}
+			timeCounter++;
+		}
+	}
+	
+	public void nextFit() {
+		while (timeCounter < 60)
+		{
+			int minSize = processQ.peekFirst().memSize;
+			int holeSize = 0;
+			int counter = 0;
+			while(holeSize < minSize || counter < 100)
+			{
+				if(memStorage[counter] == null) holeSize++;
+				else holeSize = 0;
+				counter++;
+			}
+			timeCounter++;
+		}
+		
+	}
+	
+	public void bestFit() {
+		ArrayList<Integer> holeStore = new ArrayList<Integer>();
+		int minSize = processQ.peekFirst().memSize;
+		int holeSize = 0;
+		int bestHole = 100;
+		for(int i = 0; i < 100; i++)
+		{
+			if(memStorage[i] == null) 
+			{
+				holeSize++;
+			}
+			else 
+			{
+				holeStore.add(e)
+				holeSize = 0;
+			}
+
+		}
+		for(Integer I: holeStore)
+		{
+			if (I.intValue() > minSize && I.intValue() < bestHole)
+			{
+				
+			}
+		}
+		
+	}
+}

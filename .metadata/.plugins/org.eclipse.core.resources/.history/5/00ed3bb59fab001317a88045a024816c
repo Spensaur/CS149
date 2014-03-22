@@ -1,0 +1,11 @@
+package hw4;
+
+public class NextFit extends MemManager implements AlgorithmInterface{
+
+	public NextFit(){super();};
+	
+	public void SwapOperations() {
+		
+	}
+
+}

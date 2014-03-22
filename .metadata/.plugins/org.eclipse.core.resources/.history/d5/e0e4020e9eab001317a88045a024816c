@@ -1,0 +1,64 @@
+package hw4;
+
+import hw4.Process;
+
+import java.util.LinkedList;
+
+public class MemManager {
+	
+	int maxTime;
+	public LinkedList<Process> processQ;
+	Process[] memStorage;
+	int swapCounter;
+	
+	public MemManager()
+	{
+		maxTime = 60;
+		processQ = new LinkedList<Process>();
+		memStorage = new Process[100];
+		swapCounter = 0;
+		for(int i = 0; i < 100; i++)
+		{
+			Process p = new Process();
+			p.name = i;
+			processQ.add(p);
+		}
+	}
+	
+	//prints the memory map
+	public void printMem()
+	{
+		for(int i = 0; i < 100; i++)
+		{
+			if(memStorage[i] == null)
+			{
+				System.out.print(" - ");
+			}
+			else System.out.printf("%2d ",memStorage[i].name);
+		}
+	}
+	
+	public void removeProcess() //call every second
+	{
+		for(int i = 0; i < 100; i++)
+		{
+			if(memStorage[i].duration == 0)
+			{
+				memStorage[i]
+			}
+			memStorage[i].duration--;
+		}
+	}
+	
+	//call this at algorithmic specific place or whenever a new process is at head of queue
+	public void addProcess(int memPlace) 
+	{
+		
+	}
+	
+	//runs the test cases
+	public static void main(String[] args)
+	{
+		
+	}
+}
